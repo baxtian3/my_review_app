@@ -1,0 +1,3 @@
+-Clonar el repositorio y navegar hasta el directorio del proyecto /my_review_app
+-Ejecutar docker-compose up --build
+-La app estará disponible en "http://localhost:3000"
